@@ -4,6 +4,10 @@ signal dollars_changed(dollars:int)
 
 var interface:GameInterface
 var masters:MasterRepository
+var price_list:Dictionary = {
+	'truck': 500,
+	'miner': 50
+}
 
 var picking_boulder:bool = false:
 	set(value):

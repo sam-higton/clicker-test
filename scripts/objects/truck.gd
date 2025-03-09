@@ -18,7 +18,7 @@ var current_state:truck_state:
 
 var truck_name:String = 'Truck 1'
 var selected_boulder:Boulder
-var rock_capacity:int = 10
+var rock_capacity:int = 1
 var rock_count:int = 0:
 	set(value):
 		rock_count = value
