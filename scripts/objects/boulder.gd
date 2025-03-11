@@ -2,11 +2,13 @@ class_name Boulder extends Area2D
 
 signal property_changed
 signal rock_created(rock:Rock)
+signal miner_added(miner:Miner)
 
 var has_mouse:bool = false
 var game_manager:GameManager
 var boulder_name:String = 'Boulder 1'
 
+var miners:Array[Miner] = []
 var miner_rate:float = 0.1
 var miner_frequency:float = 0.5
 var miner_active:bool = false
@@ -70,6 +72,12 @@ func move_miners():
 		miner.global_position.x += 15
 		miner.global_position.y += randi_range(-5, 5)
 
+func miner_cost():
+	# TODO: Add multiplier based on number of miners
+	
+	return game_manager.price_list.miner * (1 + (miners.size() * 0.5))
+
+
 func add_miner():
 	move_miners()
 	var new_miner = game_manager.masters.master_miner.duplicate()
@@ -77,6 +85,9 @@ func add_miner():
 	new_miner.boulder = self
 	new_miner.add_to_group(miner_group())
 	get_parent().add_child(new_miner)
+	game_manager.dollars -= miner_cost()
+	miners.append(new_miner)
+	
 	
 func do_mine(progress_amount:float):
 	progress_to_rock += progress_amount

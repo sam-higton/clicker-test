@@ -5,7 +5,7 @@ signal dollars_changed(dollars:int)
 var interface:GameInterface
 var masters:MasterRepository
 var price_list:Dictionary = {
-	'truck': 500,
+	'truck': 1000,
 	'miner': 50
 }
 
