@@ -10,18 +10,25 @@ enum truck_state {
 }
 
 signal state_changed(old_state, new_state)
+signal property_changed
 
 var current_state:truck_state:
 	set(value):
-		state_changed.emit(current_state, value)
+		var old_state = current_state
 		current_state = value
+		state_changed.emit(old_state, value)
 
 var truck_name:String = 'Truck 1'
 var selected_boulder:Boulder
-var rock_capacity:int = 1
+var rock_capacity:int = 1:
+	set(value):
+		rock_capacity = value
+		property_changed.emit()
+
 var rock_count:int = 0:
 	set(value):
 		rock_count = value
+		property_changed.emit()
 		if rock_count == 0:
 			$Sprite2D.texture = empty_sprite
 		elif rock_count < rock_capacity / 2:
@@ -32,7 +39,11 @@ var rock_count:int = 0:
 			$Sprite2D.texture = full_sprite
 
 var rocks:Array[Rock.RockType] = []
-var target_rock:Rock
+var target_rock:Rock:
+	set(value):
+		target_rock = value
+		property_changed.emit()
+		
 var game_manager:GameManager
 var refinery_spawn:Node2D
 var speed:float = 50
@@ -158,4 +169,8 @@ func state_name(val):
 	for key in truck_state:
 		if truck_state[key] == val:
 			return key
+
+	return 'unknown'
 	
+func state_text():
+	return state_name(current_state)

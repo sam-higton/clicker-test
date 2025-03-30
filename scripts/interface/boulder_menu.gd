@@ -29,7 +29,9 @@ func add_miner():
 
 	
 func can_afford_miner(dollars:int):
-	print('evaluating cost')
+	if(selected_boulder == null):
+		return
+	
 	if game_manager.dollars >= selected_boulder.miner_cost():
 		$add_miner.disabled = false
 	else:
@@ -37,4 +39,3 @@ func can_afford_miner(dollars:int):
 
 func update_miner_cost(miner:Miner):
 	$add_miner.text = "add miner ($%s)" % selected_boulder.miner_cost()
-

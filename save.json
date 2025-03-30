@@ -1,0 +1,1071 @@
+{
+	"dollars": 0.0,
+	"game_objects": [
+		{
+			"position": {
+				"x": 558.0,
+				"y": 407.0
+			},
+			"refinery_name": "Refinery 1",
+			"type": "refinery"
+		},
+		{
+			"boulder_name": "boulder 562 4",
+			"position": {
+				"x": 526.780822753906,
+				"y": -192.187255859375
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 636 6",
+			"position": {
+				"x": 1057.7900390625,
+				"y": 738.978881835938
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 556 8",
+			"position": {
+				"x": 234.366516113281,
+				"y": 912.233947753906
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 548 9",
+			"position": {
+				"x": -23.2401638031006,
+				"y": 258.138092041016
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 909 2",
+			"position": {
+				"x": 110.153144836426,
+				"y": 1301.11022949219
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 916 2",
+			"position": {
+				"x": -340.525909423828,
+				"y": 845.920471191406
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1057 3",
+			"position": {
+				"x": -383.041259765625,
+				"y": 68.7082290649414
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 921 4",
+			"position": {
+				"x": 103.350433349609,
+				"y": -483.67041015625
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 984 5",
+			"position": {
+				"x": 1284.54699707031,
+				"y": -280.116729736328
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1024 6",
+			"position": {
+				"x": 1535.94555664062,
+				"y": 615.860046386719
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1066 6",
+			"position": {
+				"x": 1407.13928222656,
+				"y": 935.168884277344
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1495 0",
+			"position": {
+				"x": 1664.48156738281,
+				"y": 1264.72875976562
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1316 1",
+			"position": {
+				"x": 1217.52185058594,
+				"y": 1641.92150878906
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1282 2",
+			"position": {
+				"x": -536.090026855469,
+				"y": 1280.47985839844
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1399 3",
+			"position": {
+				"x": -840.889343261719,
+				"y": 462.755584716797
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1333 3",
+			"position": {
+				"x": -754.903930664062,
+				"y": -79.0897979736328
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1416 4",
+			"position": {
+				"x": 119.456680297852,
+				"y": -922.541198730469
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1369 4",
+			"position": {
+				"x": 288.136413574219,
+				"y": -966.744384765625
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1471 4",
+			"position": {
+				"x": 706.799621582031,
+				"y": -985.069946289062
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1282 6",
+			"position": {
+				"x": 1952.33459472656,
+				"y": 532.821716308594
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1363 6",
+			"position": {
+				"x": 1676.9619140625,
+				"y": 1248.38232421875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1799 3",
+			"position": {
+				"x": -1003.32202148438,
+				"y": -488.697235107422
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1833 3",
+			"position": {
+				"x": -837.114990234375,
+				"y": -730.389221191406
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1671 4",
+			"position": {
+				"x": -213.37873840332,
+				"y": -1219.337890625
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1854 5",
+			"position": {
+				"x": 1654.83190917969,
+				"y": -1020.22094726562
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1861 5",
+			"position": {
+				"x": 2083.28637695312,
+				"y": -548.772583007812
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1976 6",
+			"position": {
+				"x": 1993.35473632812,
+				"y": 1493.16613769531
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1660 7",
+			"position": {
+				"x": 1258.43200683594,
+				"y": 2065.1298828125
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1823 8",
+			"position": {
+				"x": 30.4816551208496,
+				"y": 2127.96606445312
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1784 8",
+			"position": {
+				"x": -176.775100708008,
+				"y": 2050.19970703125
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1766 9",
+			"position": {
+				"x": -1241.9912109375,
+				"y": 412.607330322266
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2329 4",
+			"position": {
+				"x": 289.410919189453,
+				"y": -1776.54296875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2245 5",
+			"position": {
+				"x": 2569.8408203125,
+				"y": -483.222717285156
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2180 6",
+			"position": {
+				"x": 2751.43237304688,
+				"y": 237.133850097656
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1986 6",
+			"position": {
+				"x": 2714.5556640625,
+				"y": 842.048461914062
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2254 6",
+			"position": {
+				"x": 2651.50341796875,
+				"y": 1083.19763183594
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2136 6",
+			"position": {
+				"x": 2642.38256835938,
+				"y": 1110.81030273438
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2004 7",
+			"position": {
+				"x": 1672.4775390625,
+				"y": 2303.82373046875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2195 7",
+			"position": {
+				"x": 1425.92224121094,
+				"y": 2428.5615234375
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 1986 8",
+			"position": {
+				"x": -1031.87353515625,
+				"y": 1927.62548828125
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2065 8",
+			"position": {
+				"x": -1141.10668945312,
+				"y": 1804.5107421875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2180 9",
+			"position": {
+				"x": -1626.22937011719,
+				"y": 144.051696777344
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2387 9",
+			"position": {
+				"x": -1588.24658203125,
+				"y": 890.348510742188
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2416 9",
+			"position": {
+				"x": -1626.37365722656,
+				"y": 145.252792358398
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2372 10",
+			"position": {
+				"x": 160.260864257812,
+				"y": -1756.74755859375
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2304 10",
+			"position": {
+				"x": 414.905914306641,
+				"y": -1788.34143066406
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2359 11",
+			"position": {
+				"x": 2074.349609375,
+				"y": -1186.95227050781
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2470 0",
+			"position": {
+				"x": 3157.4033203125,
+				"y": 462.702972412109
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2410 0",
+			"position": {
+				"x": 2498.55200195312,
+				"y": 2137.39233398438
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2818 1",
+			"position": {
+				"x": 1804.30725097656,
+				"y": 2688.82348632812
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2483 0",
+			"position": {
+				"x": 2161.26806640625,
+				"y": 2453.83447265625
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2692 2",
+			"position": {
+				"x": -1159.89343261719,
+				"y": 2358.62548828125
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2669 2",
+			"position": {
+				"x": -588.8876953125,
+				"y": 2740.37719726562
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2348 2",
+			"position": {
+				"x": -1588.42175292969,
+				"y": 1874.26745605469
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2512 2",
+			"position": {
+				"x": -1879.60375976562,
+				"y": 1311.48229980469
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2756 3",
+			"position": {
+				"x": -1599.19177246094,
+				"y": -1044.38671875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2832 4",
+			"position": {
+				"x": -623.768188476562,
+				"y": -1908.90673828125
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2453 3",
+			"position": {
+				"x": -1681.00219726562,
+				"y": -914.691772460938
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2669 4",
+			"position": {
+				"x": 521.237976074219,
+				"y": -2192.73999023438
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2530 4",
+			"position": {
+				"x": 38.7214012145996,
+				"y": -2140.61645507812
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2398 4",
+			"position": {
+				"x": 967.133911132812,
+				"y": -2160.60766601562
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2710 5",
+			"position": {
+				"x": 2104.5205078125,
+				"y": -1683.04174804688
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2848 6",
+			"position": {
+				"x": 3113.615234375,
+				"y": -71.3629913330078
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3214 1",
+			"position": {
+				"x": 1422.12426757812,
+				"y": 3279.85375976562
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2738 1",
+			"position": {
+				"x": 1111.41040039062,
+				"y": 3355.51440429688
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3034 1",
+			"position": {
+				"x": 416.865264892578,
+				"y": 3403.67822265625
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2816 2",
+			"position": {
+				"x": -1708.03369140625,
+				"y": 2372.98364257812
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2974 2",
+			"position": {
+				"x": -1866.11791992188,
+				"y": 2174.3857421875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2836 2",
+			"position": {
+				"x": -1260.78356933594,
+				"y": 2792.796875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3129 3",
+			"position": {
+				"x": -2412.74536132812,
+				"y": 824.937866210938
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3295 3",
+			"position": {
+				"x": -2259.90283203125,
+				"y": -622.28271484375
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3291 3",
+			"position": {
+				"x": -1466.451171875,
+				"y": -1806.955078125
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3154 3",
+			"position": {
+				"x": -1873.91943359375,
+				"y": -1349.63525390625
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2897 4",
+			"position": {
+				"x": -929.951293945312,
+				"y": -2197.99536132812
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2960 4",
+			"position": {
+				"x": -476.436309814453,
+				"y": -2409.01513671875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3040 4",
+			"position": {
+				"x": 775.5654296875,
+				"y": -2585.1005859375
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3182 5",
+			"position": {
+				"x": 1972.49462890625,
+				"y": -2238.60107421875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3054 5",
+			"position": {
+				"x": 1900.16577148438,
+				"y": -2276.01904296875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3241 5",
+			"position": {
+				"x": 2476.595703125,
+				"y": -1899.29370117188
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3258 5",
+			"position": {
+				"x": 2908.50659179688,
+				"y": -1457.1669921875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2801 6",
+			"position": {
+				"x": 3552.244140625,
+				"y": 592.748596191406
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3160 6",
+			"position": {
+				"x": 3549.96826171875,
+				"y": 187.625244140625
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3157 6",
+			"position": {
+				"x": 3469.07250976562,
+				"y": 1132.02221679688
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2978 7",
+			"position": {
+				"x": 2612.72094726562,
+				"y": 2592.8916015625
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3241 7",
+			"position": {
+				"x": 2440.94799804688,
+				"y": 2742.48852539062
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 2870 7",
+			"position": {
+				"x": 652.198669433594,
+				"y": 3405.52075195312
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3314 1",
+			"position": {
+				"x": 649.231506347656,
+				"y": 3805.77587890625
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3438 1",
+			"position": {
+				"x": 562.32470703125,
+				"y": 3806.99731445312
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3378 2",
+			"position": {
+				"x": -1464.41186523438,
+				"y": 3140.10278320312
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3263 1",
+			"position": {
+				"x": -742.008911132812,
+				"y": 3548.65185546875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3368 2",
+			"position": {
+				"x": -2739.38159179688,
+				"y": 1236.01989746094
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3527 2",
+			"position": {
+				"x": -2237.45971679688,
+				"y": 2342.3046875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3142 3",
+			"position": {
+				"x": -2811.05395507812,
+				"y": -50.6839942932129
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3591 3",
+			"position": {
+				"x": -2824.5107421875,
+				"y": 751.414978027344
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3501 3",
+			"position": {
+				"x": -2838.43139648438,
+				"y": 562.738647460938
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3416 4",
+			"position": {
+				"x": -933.890563964844,
+				"y": -2648.20263671875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3358 3",
+			"position": {
+				"x": -1809.31640625,
+				"y": -2033.45336914062
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3386 4",
+			"position": {
+				"x": -545.211303710938,
+				"y": -2809.04174804688
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3316 4",
+			"position": {
+				"x": 1248.74633789062,
+				"y": -2922.09448242188
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3642 4",
+			"position": {
+				"x": 812.059875488281,
+				"y": -2983.49462890625
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3157 5",
+			"position": {
+				"x": 1795.24340820312,
+				"y": -2759.89575195312
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3586 5",
+			"position": {
+				"x": 1576.96850585938,
+				"y": -2836.71752929688
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3098 5",
+			"position": {
+				"x": 3293.8779296875,
+				"y": -1611.65600585938
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3220 5",
+			"position": {
+				"x": 3514.642578125,
+				"y": -1271.76867675781
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3494 6",
+			"position": {
+				"x": 3850.35546875,
+				"y": 1255.76135253906
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3130 6",
+			"position": {
+				"x": 3481.78198242188,
+				"y": 2142.3671875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3084 6",
+			"position": {
+				"x": 3830.1669921875,
+				"y": 1330.53857421875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3380 6",
+			"position": {
+				"x": 3892.458984375,
+				"y": 1071.36633300781
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3398 6",
+			"position": {
+				"x": 3628.02685546875,
+				"y": 1868.14184570312
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3408 7",
+			"position": {
+				"x": 2437.88720703125,
+				"y": 3240.02392578125
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3187 7",
+			"position": {
+				"x": 2021.11022949219,
+				"y": 3476.08911132812
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3819 1",
+			"position": {
+				"x": -761.98046875,
+				"y": 3970.37646484375
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3506 2",
+			"position": {
+				"x": -2332.92016601562,
+				"y": 2873.28881835938
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3841 2",
+			"position": {
+				"x": -2503.83618164062,
+				"y": 2657.5908203125
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3903 2",
+			"position": {
+				"x": -2519.21166992188,
+				"y": 2636.52197265625
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3569 3",
+			"position": {
+				"x": -3230.130859375,
+				"y": 106.891471862793
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3623 3",
+			"position": {
+				"x": -3203.89526367188,
+				"y": -129.791030883789
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3809 3",
+			"position": {
+				"x": -3087.138671875,
+				"y": -666.761291503906
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3826 4",
+			"position": {
+				"x": -1106.34887695312,
+				"y": -3009.1298828125
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3927 4",
+			"position": {
+				"x": -1320.90649414062,
+				"y": -2895.98510742188
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3815 4",
+			"position": {
+				"x": -813.599182128906,
+				"y": -3136.82788085938
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3963 5",
+			"position": {
+				"x": 1971.52856445312,
+				"y": -3120.31298828125
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3831 5",
+			"position": {
+				"x": 3157.05834960938,
+				"y": -2365.16455078125
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3653 4",
+			"position": {
+				"x": 1272.27380371094,
+				"y": -3325.26635742188
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3539 5",
+			"position": {
+				"x": 3503.31420898438,
+				"y": -1994.06713867188
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3950 5",
+			"position": {
+				"x": 3906.3125,
+				"y": -1389.88732910156
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3708 6",
+			"position": {
+				"x": 4221.1689453125,
+				"y": -603.540832519531
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3871 6",
+			"position": {
+				"x": 4310.5498046875,
+				"y": -191.639541625977
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3739 6",
+			"position": {
+				"x": 4141.47021484375,
+				"y": 1671.41357421875
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3497 7",
+			"position": {
+				"x": 1502.67578125,
+				"y": 4087.70483398438
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 3507 6",
+			"position": {
+				"x": 3510.19995117188,
+				"y": 2799.59594726562
+			},
+			"type": "boulder"
+		},
+		{
+			"boulder_name": "boulder 4164 8",
+			"position": {
+				"x": -628.510559082031,
+				"y": 4017.01293945312
+			},
+			"type": "boulder"
+		}
+	],
+	"game_seed": 10101010.0,
+	"saved_at": 1743334655.79838
+}

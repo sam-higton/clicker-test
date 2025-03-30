@@ -28,6 +28,7 @@ var progress_to_rock:float = 0.0:
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
 	game_manager = get_tree().current_scene
+	$ProgressBar.visible = false
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
@@ -75,7 +76,7 @@ func move_miners():
 func miner_cost():
 	# TODO: Add multiplier based on number of miners
 	
-	return game_manager.price_list.miner * (1 + (miners.size() * 0.5))
+	return game_manager.price_list.miner * (1 + (miners.size() * 5))
 
 
 func add_miner():
@@ -87,9 +88,16 @@ func add_miner():
 	get_parent().add_child(new_miner)
 	game_manager.dollars -= miner_cost()
 	miners.append(new_miner)
+	miner_added.emit(new_miner)
 	
 	
 func do_mine(progress_amount:float):
 	progress_to_rock += progress_amount
+	
+func save_data():
+	return {
+		"type" : "boulder",
+		"boulder_name" : boulder_name
+	}
 	
 	
